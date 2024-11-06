@@ -1,2 +1,2 @@
 # first-file
-This is my First filr in GitHub
+This is my First filr in GitHub.
